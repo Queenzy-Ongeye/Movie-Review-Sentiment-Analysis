@@ -1,0 +1,6 @@
+# Django-specific files
+*.pyc
+__pycache__/
+db.sqlite3
+
+
